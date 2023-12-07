@@ -1,17 +1,17 @@
 {
   "anal_beads": [{
     "category": "bracelet",
-    "colors": ["blue", "green", "orange", "purple"],
+    "colors": ["Blue", "Green", "Orange", "Purple"],
     "date": "2023",
     "description": "Introducing the \"ANAL Beads\" bracelet, a whimsical and tongue-in-cheek creation that infuses playfulness into the realm of gemstone jewelry. Crafted with intention, this piece combines the earthly allure of agate, the verdant beauty of nephrite, the regal charm of amethyst, and the deep mystique of lapis lazuli, all elegantly strung together with gold-plated hardware. Each gemstone, representing a letter in the cheeky moniker, adds its unique character to the ensemble. The agate provides grounding energy, the nephrite exudes vitality, the amethyst brings a touch of spiritual sophistication, and the lapis lazuli introduces an element of cosmic allure. The \"ANAL Beads\" bracelet is more than just a playful name; it's a conversation starter, an ode to humor in adornment, and a celebration of the diverse and captivating qualities found in each gemstone that makes up this distinctive and unforgettable piece.",
-    "hardware": ["gold"],
+    "hardware": ["Gold"],
     "length": "",
     "materials": ["Agate", "Amethyst", "Lapis Lazuli", "Nephrite"],
     "name": "ANAL Beads",
     "price": "35"
   }, {
     "category": "necklace",
-    "colors": ["blue", "green", "orange", "purple"],
+    "colors": ["Blue", "Green", "Orange", "Purple"],
     "date": "2023",
     "description": "",
     "hardware": ["Gold"],
