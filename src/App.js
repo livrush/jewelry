@@ -10,7 +10,7 @@ function App() {
   const color = colorNames[Math.floor(Math.random() * colorNames.length)];
 
   return (
-    <div className="App bg bg-color">
+    <div className={`App bg bg-image-${color}`}>
       <header className={`App-header bg bg-color-${color} bg-white`}>
         <img src={logo} width="750px" className="" alt="logo" />
       </header>
@@ -25,7 +25,7 @@ function App() {
           })
         }
       </div>
-      <footer className={`footer bg bg-color-${color} bg-white`}>All rights reserved.</footer>
+      <footer className={`footer bg bg-color-${color} bg-image-white`}>All rights reserved.</footer>
     </div>
   );
 }

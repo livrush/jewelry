@@ -27,6 +27,11 @@ code {
     monospace;
 }
 
+.bg {
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .bg-color-black { background-color: var(--color-black); }
 .bg-color-blue { background-color: var(--color-blue); }
 .bg-color-brown { background-color: var(--color-brown); }
@@ -53,15 +58,14 @@ code {
 .bg-fill-white { fill: var(--color-white); }
 .bg-fill-yellow { fill: var(--color-yellow); }
 
-.bg {
-  background-attachment: fixed;
-  background-size: cover;
-}
-
-.bg-color {
-  background-image: url(./assets/background.svg);
-}
-
-.bg-white {
-  background-image: url(./assets/background-white.svg);
-}
+.bg-image-blue { background-image: url(./assets/background-blue.svg); }
+.bg-image-brown { background-image: url(./assets/background-brown.svg); }
+.bg-image-green { background-image: url(./assets/background-green.svg); }
+.bg-image-grey { background-image: url(./assets/background-grey.svg); }
+.bg-image-ice { background-image: url(./assets/background-ice.svg); }
+.bg-image-orange { background-image: url(./assets/background-orange.svg); }
+.bg-image-pink { background-image: url(./assets/background-pink.svg); }
+.bg-image-purple { background-image: url(./assets/background-purple.svg); }
+.bg-image-red { background-image: url(./assets/background-red.svg); }
+.bg-image-white { background-image: url(./assets/background-white.svg); }
+.bg-image-yellow { background-image: url(./assets/background-yellow.svg); }
