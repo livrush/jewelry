@@ -1,0 +1,199 @@
+{
+  "anal_beads": [{
+    "category": "bracelet",
+    "colors": ["blue", "green", "orange", "purple"],
+    "date": "2023",
+    "description": "Introducing the \"ANAL Beads\" bracelet, a whimsical and tongue-in-cheek creation that infuses playfulness into the realm of gemstone jewelry. Crafted with intention, this piece combines the earthly allure of agate, the verdant beauty of nephrite, the regal charm of amethyst, and the deep mystique of lapis lazuli, all elegantly strung together with gold-plated hardware. Each gemstone, representing a letter in the cheeky moniker, adds its unique character to the ensemble. The agate provides grounding energy, the nephrite exudes vitality, the amethyst brings a touch of spiritual sophistication, and the lapis lazuli introduces an element of cosmic allure. The \"ANAL Beads\" bracelet is more than just a playful name; it's a conversation starter, an ode to humor in adornment, and a celebration of the diverse and captivating qualities found in each gemstone that makes up this distinctive and unforgettable piece.",
+    "hardware": ["gold"],
+    "length": "",
+    "materials": ["Agate", "Amethyst", "Lapis Lazuli", "Nephrite"],
+    "name": "ANAL Beads",
+    "price": "35"
+  }, {
+    "category": "necklace",
+    "colors": ["blue", "green", "orange", "purple"],
+    "date": "2023",
+    "description": "",
+    "hardware": ["Gold"],
+    "length": "",
+    "materials": ["Agate", "Amethyst", "Lapis Lazuli", "Nephrite"],
+    "name": "ANAL Beads",
+    "price": "50"
+  }],
+  "audrey": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Audrey",
+    "price": ""
+  }],
+  "aurora": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Aurora",
+    "price": ""
+  }],
+  "barbie": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Barbie",
+    "price": ""
+  }],
+  "carmilla": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Carmilla",
+    "price": ""
+  }],
+  "celeste": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Celeste",
+    "price": ""
+  }],
+  "demeter": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Demeter",
+    "price": ""
+  }],
+  "emily": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Emily",
+    "price": ""
+  }],
+  "heidi": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Heidi",
+    "price": ""
+  }],
+  "joanna": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Joanna",
+    "price": ""
+  }],
+  "lilith": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Lilith",
+    "price": ""
+  }],
+  "lily": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Lily",
+    "price": ""
+  }],
+  "maddie": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Maddie",
+    "price": ""
+  }],
+  "olivia": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Olivia",
+    "price": ""
+  }],
+  "selena": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Selena",
+    "price": ""
+  }],
+  "sisters": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Sisters",
+    "price": ""
+  }],
+  "tina": [{
+    "category": "",
+    "colors": [],
+    "date": "",
+    "description": "",
+    "hardware": [],
+    "length": "",
+    "materials": [],
+    "name": "Tina",
+    "price": ""
+  }]
+}

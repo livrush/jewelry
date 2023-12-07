@@ -1,23 +1,27 @@
-import logo from './logo.svg';
+import logo from './media/logo.svg';
 import './App.css';
 
+import colors from "./lib/colors.json";
+import inventory from "./lib/inventory.json";
+import Card from './components/Card';
+
 function App() {
+  console.log(colors, inventory);
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src={logo} width="750px" className="" alt="logo" />
       </header>
+      {
+        Object.keys(inventory).map((collection) => {
+          return inventory[collection].map((item) => {
+            return (
+              <Card item={item} />
+            )
+          });
+        })
+      }
     </div>
   );
 }
