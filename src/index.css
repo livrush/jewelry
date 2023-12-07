@@ -70,6 +70,19 @@ code {
 .bg-image-white { background-image: url(./assets/background-white.svg); }
 .bg-image-yellow { background-image: url(./assets/background-yellow.svg); }
 
+.text-color-black { color: var(--color-black); }
+.text-color-blue { color: var(--color-blue); }
+.text-color-brown { color: var(--color-brown); }
+.text-color-green { color: var(--color-green); }
+.text-color-grey { color: var(--color-grey); }
+.text-color-ice { color: var(--color-ice); }
+.text-color-orange { color: var(--color-orange); }
+.text-color-pink { color: var(--color-pink); }
+.text-color-purple { color: var(--color-purple); }
+.text-color-red { color: var(--color-red); }
+.text-color-white { color: var(--color-white); }
+.text-color-yellow { color: var(--color-yellow); }
+
 @keyframes full-marquee {
   0% {
     -webkit-transform: translateX(100%);
@@ -91,7 +104,12 @@ code {
   }
 }
 
-.section-header, .full-marquee {
-  width: 100vw;
+.full-marquee {
   animation: full-marquee infinite 5s linear;
+}
+
+.section-header {
+  margin-bottom: 48px;
+  overflow: hidden;
+  width: 100%;
 }

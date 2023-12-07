@@ -41,7 +41,7 @@
   width: 1000px;
   display: flex;
   flex-wrap: wrap;
-  margin: 48px auto;
+  margin: 0 auto 48px;
 }
 
 .card {
@@ -71,4 +71,45 @@
 
 .footer {
   padding: 100px;
+}
+
+
+.about-container {
+  line-height: 1.5;
+  display: flex;
+  color: white;
+  margin-bottom: 48px;
+}
+
+.about-right, .about-left {
+  min-height: 400px;
+  width: 50vw;
+  padding: 3rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-left {
+  background-image: url(https://picsum.photos/2000?random=necklace);
+  background-size: cover;
+  position: relative;
+}
+
+.about-left h3 {
+  z-index: 10;
+}
+
+.about-left-mask {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 5;
+  opacity: .8;
+}
+
+.about-right {
+  text-align: justify;
 }
