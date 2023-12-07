@@ -6,11 +6,12 @@ import inventory from "./lib/inventory.json";
 import Card from './components/Card';
 
 function App() {
-  console.log(colors, inventory);
+  const colorNames = Object.keys(colors);
+  const color = colorNames[Math.floor(Math.random() * colorNames.length)];
 
   return (
-    <div className="App">
-      <header className="App-header bg bg-white">
+    <div className="App bg bg-color">
+      <header className={`App-header bg bg-color-${color} bg-white`}>
         <img src={logo} width="750px" className="" alt="logo" />
       </header>
       <div className="inventory-list">
@@ -18,13 +19,13 @@ function App() {
           Object.keys(inventory).map((collection) => {
             return inventory[collection].map((item) => {
               return (
-                <Card item={item} />
+                <Card item={item} color={color} />
               )
             });
           })
         }
       </div>
-      <footer className="footer bg bg-white">All rights reserved.</footer>
+      <footer className={`footer bg bg-color-${color} bg-white`}>All rights reserved.</footer>
     </div>
   );
 }

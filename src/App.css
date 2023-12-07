@@ -14,7 +14,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -47,7 +46,6 @@
 .card {
   height: 240px;
   width: 200px;
-  /* border: red 1px solid; */
   margin: 0 1.5rem 1.5rem;
   position: relative;
   border-radius: 1rem;
@@ -70,21 +68,10 @@
   z-index: 5;
 }
 
-.background-lines {
-  fill: black;
-}
-
-body, .bg, .bg-white {
-  background-image: url(./assets/background.svg);
-  background-attachment: fixed;
-  background-size: cover;
-}
-
-.bg-white {
-  background-image: url(./assets/background-white.svg);
-}
-
 .footer {
   padding: 100px;
-  background-color: red;
 }
+
+/* .curve-color {
+  fill: pink;
+} */

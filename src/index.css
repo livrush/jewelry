@@ -1,3 +1,18 @@
+:root {
+  --color-black: #111111;
+  --color-blue: #4C88B9;
+  --color-brown: #7E6859;
+  --color-green: #61A155;
+  --color-grey: #444444;
+  --color-ice: #BBBBBB;
+  --color-orange: #E76510;
+  --color-pink: #D09296;
+  --color-purple: #6B5B7A;
+  --color-red: #E20303;
+  --color-white: #FFFFFF;
+  --color-yellow: #D09431;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +25,43 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.bg-color-black { background-color: var(--color-black); }
+.bg-color-blue { background-color: var(--color-blue); }
+.bg-color-brown { background-color: var(--color-brown); }
+.bg-color-green { background-color: var(--color-green); }
+.bg-color-grey { background-color: var(--color-grey); }
+.bg-color-ice { background-color: var(--color-ice); }
+.bg-color-orange { background-color: var(--color-orange); }
+.bg-color-pink { background-color: var(--color-pink); }
+.bg-color-purple { background-color: var(--color-purple); }
+.bg-color-red { background-color: var(--color-red); }
+.bg-color-white { background-color: var(--color-white); }
+.bg-color-yellow { background-color: var(--color-yellow); }
+
+.bg-fill-black { fill: var(--color-black); }
+.bg-fill-blue { fill: var(--color-blue); }
+.bg-fill-brown { fill: var(--color-brown); }
+.bg-fill-green { fill: var(--color-green); }
+.bg-fill-grey { fill: var(--color-grey); }
+.bg-fill-ice { fill: var(--color-ice); }
+.bg-fill-orange { fill: var(--color-orange); }
+.bg-fill-pink { fill: var(--color-pink); }
+.bg-fill-purple { fill: var(--color-purple); }
+.bg-fill-red { fill: var(--color-red); }
+.bg-fill-white { fill: var(--color-white); }
+.bg-fill-yellow { fill: var(--color-yellow); }
+
+.bg {
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-color {
+  background-image: url(./assets/background.svg);
+}
+
+.bg-white {
+  background-image: url(./assets/background-white.svg);
 }
