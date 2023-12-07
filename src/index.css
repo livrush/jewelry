@@ -69,3 +69,29 @@ code {
 .bg-image-red { background-image: url(./assets/background-red.svg); }
 .bg-image-white { background-image: url(./assets/background-white.svg); }
 .bg-image-yellow { background-image: url(./assets/background-yellow.svg); }
+
+@keyframes full-marquee {
+  0% {
+    -webkit-transform: translateX(100%);
+  }
+  100% {
+      -webkit-transform: translateX(-100%);
+  }
+}
+
+@keyframes full-marquee {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+      transform: translateX(-25%);
+  }
+  100% {
+      transform: translateX(-50%);
+  }
+}
+
+.section-header, .full-marquee {
+  width: 100vw;
+  animation: full-marquee infinite 5s linear;
+}

@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.main-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -21,6 +21,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin-bottom: 48px;
 }
 
 .App-link {
@@ -40,7 +41,7 @@
   width: 1000px;
   display: flex;
   flex-wrap: wrap;
-  margin: 50px auto;
+  margin: 48px auto;
 }
 
 .card {
