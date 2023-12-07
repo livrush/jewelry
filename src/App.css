@@ -37,6 +37,13 @@
   }
 }
 
+.inventory-list {
+  width: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 50px auto;
+}
+
 .card {
   height: 240px;
   width: 200px;
@@ -59,5 +66,25 @@
   position: absolute;
   left: 0;
   bottom: 0;
+  width: 100%;
   z-index: 5;
+}
+
+.background-lines {
+  fill: black;
+}
+
+body, .bg, .bg-white {
+  background-image: url(./assets/background.svg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg-white {
+  background-image: url(./assets/background-white.svg);
+}
+
+.footer {
+  padding: 100px;
+  background-color: red;
 }

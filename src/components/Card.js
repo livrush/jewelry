@@ -1,4 +1,4 @@
-import curve from '../media/card-curve.svg';
+import curve from '../assets/card-curve.svg';
 
 const Card = ({ item }) => {
   return (
