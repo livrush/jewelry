@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.dec64242.css",
-    "main.js": "/static/js/main.85146c55.js",
-    "static/js/787.12f7c9fb.chunk.js": "/static/js/787.12f7c9fb.chunk.js",
-    "static/media/background-white.svg": "/static/media/background-white.b5dc082bf94a2605ac67.svg",
-    "static/media/background-blue.svg": "/static/media/background-blue.59a7225d3689c6afc88f.svg",
-    "static/media/background-brown.svg": "/static/media/background-brown.9241cc36ceff9d438df5.svg",
-    "static/media/background-green.svg": "/static/media/background-green.2566771201578f6a593f.svg",
-    "static/media/background-grey.svg": "/static/media/background-grey.2988c0087c81e5c5594b.svg",
-    "static/media/background-ice.svg": "/static/media/background-ice.dcbc8493f00a02aede29.svg",
-    "static/media/background-orange.svg": "/static/media/background-orange.506d89840a13bbb4be05.svg",
-    "static/media/background-pink.svg": "/static/media/background-pink.62550c4f6ffe48be671d.svg",
-    "static/media/background-purple.svg": "/static/media/background-purple.b77591881cc599e138da.svg",
-    "static/media/background-red.svg": "/static/media/background-red.446d65a6389dd00bfea8.svg",
-    "static/media/background-yellow.svg": "/static/media/background-yellow.4fe53c06392f88072fd6.svg",
-    "static/media/logo.svg": "/static/media/logo.5bc202f6307513733e865bc9eec32767.svg",
-    "static/media/card-curve.svg": "/static/media/card-curve.257991ec6eff83a797a438b0b74aa5ca.svg",
-    "index.html": "/index.html",
-    "main.dec64242.css.map": "/static/css/main.dec64242.css.map",
-    "main.85146c55.js.map": "/static/js/main.85146c55.js.map",
-    "787.12f7c9fb.chunk.js.map": "/static/js/787.12f7c9fb.chunk.js.map"
+    "main.css": "/jewelry/static/css/main.d8c49cfc.css",
+    "main.js": "/jewelry/static/js/main.a570efd4.js",
+    "static/js/787.12f7c9fb.chunk.js": "/jewelry/static/js/787.12f7c9fb.chunk.js",
+    "static/media/background-white.svg": "/jewelry/static/media/background-white.b5dc082bf94a2605ac67.svg",
+    "static/media/background-blue.svg": "/jewelry/static/media/background-blue.59a7225d3689c6afc88f.svg",
+    "static/media/background-brown.svg": "/jewelry/static/media/background-brown.9241cc36ceff9d438df5.svg",
+    "static/media/background-green.svg": "/jewelry/static/media/background-green.2566771201578f6a593f.svg",
+    "static/media/background-grey.svg": "/jewelry/static/media/background-grey.2988c0087c81e5c5594b.svg",
+    "static/media/background-ice.svg": "/jewelry/static/media/background-ice.dcbc8493f00a02aede29.svg",
+    "static/media/background-orange.svg": "/jewelry/static/media/background-orange.506d89840a13bbb4be05.svg",
+    "static/media/background-pink.svg": "/jewelry/static/media/background-pink.62550c4f6ffe48be671d.svg",
+    "static/media/background-purple.svg": "/jewelry/static/media/background-purple.b77591881cc599e138da.svg",
+    "static/media/background-red.svg": "/jewelry/static/media/background-red.446d65a6389dd00bfea8.svg",
+    "static/media/background-yellow.svg": "/jewelry/static/media/background-yellow.4fe53c06392f88072fd6.svg",
+    "static/media/logo.svg": "/jewelry/static/media/logo.5bc202f6307513733e865bc9eec32767.svg",
+    "static/media/card-curve.svg": "/jewelry/static/media/card-curve.257991ec6eff83a797a438b0b74aa5ca.svg",
+    "index.html": "/jewelry/index.html",
+    "main.d8c49cfc.css.map": "/jewelry/static/css/main.d8c49cfc.css.map",
+    "main.a570efd4.js.map": "/jewelry/static/js/main.a570efd4.js.map",
+    "787.12f7c9fb.chunk.js.map": "/jewelry/static/js/787.12f7c9fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dec64242.css",
-    "static/js/main.85146c55.js"
+    "static/css/main.d8c49cfc.css",
+    "static/js/main.a570efd4.js"
   ]
 }
