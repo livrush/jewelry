@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jewelry/static/css/main.c0121dc4.css",
-    "main.js": "/jewelry/static/js/main.09972bc2.js",
+    "main.css": "/jewelry/static/css/main.95204991.css",
+    "main.js": "/jewelry/static/js/main.387f82f7.js",
     "static/js/787.12f7c9fb.chunk.js": "/jewelry/static/js/787.12f7c9fb.chunk.js",
     "static/media/header.png": "/jewelry/static/media/header.05929a86eb6f8c9c7ee7.png",
     "static/media/bracelets.png": "/jewelry/static/media/bracelets.97ffd078ada6d8d47a18.png",
@@ -24,12 +24,12 @@
     "static/media/logo.svg": "/jewelry/static/media/logo.5bc202f6307513733e865bc9eec32767.svg",
     "static/media/logo-icon-white.svg": "/jewelry/static/media/logo-icon-white.8c3093557c776bd8dca3fb3391c46779.svg",
     "index.html": "/jewelry/index.html",
-    "main.c0121dc4.css.map": "/jewelry/static/css/main.c0121dc4.css.map",
-    "main.09972bc2.js.map": "/jewelry/static/js/main.09972bc2.js.map",
+    "main.95204991.css.map": "/jewelry/static/css/main.95204991.css.map",
+    "main.387f82f7.js.map": "/jewelry/static/js/main.387f82f7.js.map",
     "787.12f7c9fb.chunk.js.map": "/jewelry/static/js/787.12f7c9fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0121dc4.css",
-    "static/js/main.09972bc2.js"
+    "static/css/main.95204991.css",
+    "static/js/main.387f82f7.js"
   ]
 }
