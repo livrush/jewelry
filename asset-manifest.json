@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/jewelry/static/css/main.d8c49cfc.css",
-    "main.js": "/jewelry/static/js/main.a570efd4.js",
+    "main.css": "/jewelry/static/css/main.c2b189f2.css",
+    "main.js": "/jewelry/static/js/main.40f2396a.js",
     "static/js/787.12f7c9fb.chunk.js": "/jewelry/static/js/787.12f7c9fb.chunk.js",
+    "static/media/Nunito-Regular.ttf": "/jewelry/static/media/Nunito-Regular.c6d06da41ec4b66d9086.ttf",
     "static/media/background-white.svg": "/jewelry/static/media/background-white.b5dc082bf94a2605ac67.svg",
+    "static/media/placeholder.svg": "/jewelry/static/media/placeholder.66f61af853580527b564a7e32221b314.svg",
     "static/media/background-blue.svg": "/jewelry/static/media/background-blue.59a7225d3689c6afc88f.svg",
     "static/media/background-brown.svg": "/jewelry/static/media/background-brown.9241cc36ceff9d438df5.svg",
     "static/media/background-green.svg": "/jewelry/static/media/background-green.2566771201578f6a593f.svg",
@@ -14,15 +16,15 @@
     "static/media/background-purple.svg": "/jewelry/static/media/background-purple.b77591881cc599e138da.svg",
     "static/media/background-red.svg": "/jewelry/static/media/background-red.446d65a6389dd00bfea8.svg",
     "static/media/background-yellow.svg": "/jewelry/static/media/background-yellow.4fe53c06392f88072fd6.svg",
+    "static/media/Balgend.ttf": "/jewelry/static/media/Balgend.2ed961d76b5aa3c5fd13.ttf",
     "static/media/logo.svg": "/jewelry/static/media/logo.5bc202f6307513733e865bc9eec32767.svg",
-    "static/media/card-curve.svg": "/jewelry/static/media/card-curve.257991ec6eff83a797a438b0b74aa5ca.svg",
     "index.html": "/jewelry/index.html",
-    "main.d8c49cfc.css.map": "/jewelry/static/css/main.d8c49cfc.css.map",
-    "main.a570efd4.js.map": "/jewelry/static/js/main.a570efd4.js.map",
+    "main.c2b189f2.css.map": "/jewelry/static/css/main.c2b189f2.css.map",
+    "main.40f2396a.js.map": "/jewelry/static/js/main.40f2396a.js.map",
     "787.12f7c9fb.chunk.js.map": "/jewelry/static/js/787.12f7c9fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8c49cfc.css",
-    "static/js/main.a570efd4.js"
+    "static/css/main.c2b189f2.css",
+    "static/js/main.40f2396a.js"
   ]
 }
