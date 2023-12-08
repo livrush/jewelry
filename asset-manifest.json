@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jewelry/static/css/main.c2b189f2.css",
-    "main.js": "/jewelry/static/js/main.40f2396a.js",
+    "main.js": "/jewelry/static/js/main.c0f72c07.js",
     "static/js/787.12f7c9fb.chunk.js": "/jewelry/static/js/787.12f7c9fb.chunk.js",
     "static/media/Nunito-Regular.ttf": "/jewelry/static/media/Nunito-Regular.c6d06da41ec4b66d9086.ttf",
     "static/media/background-white.svg": "/jewelry/static/media/background-white.b5dc082bf94a2605ac67.svg",
@@ -20,11 +20,11 @@
     "static/media/logo.svg": "/jewelry/static/media/logo.5bc202f6307513733e865bc9eec32767.svg",
     "index.html": "/jewelry/index.html",
     "main.c2b189f2.css.map": "/jewelry/static/css/main.c2b189f2.css.map",
-    "main.40f2396a.js.map": "/jewelry/static/js/main.40f2396a.js.map",
+    "main.c0f72c07.js.map": "/jewelry/static/js/main.c0f72c07.js.map",
     "787.12f7c9fb.chunk.js.map": "/jewelry/static/js/787.12f7c9fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2b189f2.css",
-    "static/js/main.40f2396a.js"
+    "static/js/main.c0f72c07.js"
   ]
 }
