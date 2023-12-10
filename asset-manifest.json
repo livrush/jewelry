@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/jewelry/static/css/main.b3ff1bac.css",
-    "main.js": "/jewelry/static/js/main.cbbfb8f8.js",
+    "main.css": "/jewelry/static/css/main.2e9f4f85.css",
+    "main.js": "/jewelry/static/js/main.71df4acb.js",
     "static/js/787.12f7c9fb.chunk.js": "/jewelry/static/js/787.12f7c9fb.chunk.js",
     "static/media/beads.jpeg": "/jewelry/static/media/beads.c75e3c2b4b54ce135dd2.jpeg",
     "static/media/beads-bw.jpeg": "/jewelry/static/media/beads-bw.8da1419c37e492588abe.jpeg",
-    "static/media/Hedvig-Letters-Serif.ttf": "/jewelry/static/media/Hedvig-Letters-Serif.6612fcde20ce8e319283.ttf",
-    "static/media/Nunito-Regular.ttf": "/jewelry/static/media/Nunito-Regular.c6d06da41ec4b66d9086.ttf",
+    "static/media/Bitter-Bold.ttf": "/jewelry/static/media/Bitter-Bold.c3c1d452e38614e4b3f5.ttf",
+    "static/media/Bitter-Regular.ttf": "/jewelry/static/media/Bitter-Regular.6ee5b046d2a7f83131e7.ttf",
     "static/media/about-text.svg": "/jewelry/static/media/about-text.4dca41d638af7046fee01b125d8b61f2.svg",
     "static/media/placeholder.svg": "/jewelry/static/media/placeholder.e8fbe326383ae395d3d3cab7443752f6.svg",
     "static/media/background-header.svg": "/jewelry/static/media/background-header.cf28442fd1fc96390b6f.svg",
@@ -24,16 +24,16 @@
     "static/media/Balgend.ttf": "/jewelry/static/media/Balgend.2ed961d76b5aa3c5fd13.ttf",
     "static/media/logo.svg": "/jewelry/static/media/logo.5bc202f6307513733e865bc9eec32767.svg",
     "static/media/necklace.svg": "/jewelry/static/media/necklace.24161a776bba6105a05f5721702e513e.svg",
+    "index.html": "/jewelry/index.html",
     "static/media/earrings.svg": "/jewelry/static/media/earrings.f313d365a4eb8c86606db7ba719f555a.svg",
     "static/media/logo-icon-white.svg": "/jewelry/static/media/logo-icon-white.8c3093557c776bd8dca3fb3391c46779.svg",
     "static/media/bracelet.svg": "/jewelry/static/media/bracelet.cb2786a78dee0ecb7bc0131c118db4ea.svg",
-    "index.html": "/jewelry/index.html",
-    "main.b3ff1bac.css.map": "/jewelry/static/css/main.b3ff1bac.css.map",
-    "main.cbbfb8f8.js.map": "/jewelry/static/js/main.cbbfb8f8.js.map",
+    "main.2e9f4f85.css.map": "/jewelry/static/css/main.2e9f4f85.css.map",
+    "main.71df4acb.js.map": "/jewelry/static/js/main.71df4acb.js.map",
     "787.12f7c9fb.chunk.js.map": "/jewelry/static/js/787.12f7c9fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3ff1bac.css",
-    "static/js/main.cbbfb8f8.js"
+    "static/css/main.2e9f4f85.css",
+    "static/js/main.71df4acb.js"
   ]
 }
