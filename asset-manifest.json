@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jewelry/static/css/main.46d98c11.css",
-    "main.js": "/jewelry/static/js/main.64b54818.js",
+    "main.js": "/jewelry/static/js/main.e0102fee.js",
     "static/js/787.12f7c9fb.chunk.js": "/jewelry/static/js/787.12f7c9fb.chunk.js",
     "static/media/beads.jpeg": "/jewelry/static/media/beads.c75e3c2b4b54ce135dd2.jpeg",
     "static/media/beads-bw.jpeg": "/jewelry/static/media/beads-bw.8da1419c37e492588abe.jpeg",
@@ -29,11 +29,11 @@
     "static/media/logo-icon-white.svg": "/jewelry/static/media/logo-icon-white.8c3093557c776bd8dca3fb3391c46779.svg",
     "static/media/bracelet.svg": "/jewelry/static/media/bracelet.cb2786a78dee0ecb7bc0131c118db4ea.svg",
     "main.46d98c11.css.map": "/jewelry/static/css/main.46d98c11.css.map",
-    "main.64b54818.js.map": "/jewelry/static/js/main.64b54818.js.map",
+    "main.e0102fee.js.map": "/jewelry/static/js/main.e0102fee.js.map",
     "787.12f7c9fb.chunk.js.map": "/jewelry/static/js/787.12f7c9fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46d98c11.css",
-    "static/js/main.64b54818.js"
+    "static/js/main.e0102fee.js"
   ]
 }
